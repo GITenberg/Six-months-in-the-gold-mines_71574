@@ -1,0 +1,25 @@
+_repo: Six-months-in-the-gold-mines_71574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buffum, E. Gould
+    gutenberg_agent_id: '56289'
+    url: http://www.gutenberg.org/2009/agents/56289
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71574'
+language: en
+pgterms:marc905: 20220526060239buffum
+pgterms:marc906: '1850'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bLea and Blanchard, $c1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Six months in the gold mines
+url: http://www.gutenberg.org/ebooks/71574
