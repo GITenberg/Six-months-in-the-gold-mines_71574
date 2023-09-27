@@ -1,11 +1,16 @@
 _repo: Six-months-in-the-gold-mines_71574
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71574-h/images/cover.jpg
 creator:
   author:
     agent_name: Buffum, E. Gould
     gutenberg_agent_id: '56289'
     url: http://www.gutenberg.org/2009/agents/56289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71574#Six-months-in-the-gold-mines
 gutenberg_issued: '2023-09-05'
 identifiers:
   gutenberg: '71574'
